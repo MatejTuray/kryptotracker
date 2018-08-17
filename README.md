@@ -1,3 +1,14 @@
+Track your favorite cryptocurrencies live.
+
+Live demo at : https://kryptotracker.herokuapp.com/
+
+A note : CoinbaseAPI updates every 5 mins
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
