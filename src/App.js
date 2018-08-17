@@ -27,9 +27,7 @@ class App extends React.Component {
   }
 }
   componentDidMount(){
-    Notification.requestPermission(function(status) {
-      console.log('Notification permission status:', status);
-  });
+   
     try {
       const json = localStorage.getItem('data');
       const data = JSON.parse(json);
